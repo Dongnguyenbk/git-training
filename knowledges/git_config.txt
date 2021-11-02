@@ -1,0 +1,2 @@
+1. Config user infomation
+2. Config core tool
