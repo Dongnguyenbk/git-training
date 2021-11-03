@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+print("Say hello\nThis is feature 002")
+=======
+print("Hello\nThis is feature 002")
+>>>>>>> Add feature-0002
